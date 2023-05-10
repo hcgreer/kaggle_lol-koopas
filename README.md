@@ -1,3 +1,8 @@
+## Team
+[Essete Tsahai](https://github.com/essetetsahai),
+[Michial Miller](https://github.com/michialm),
+[Bua Matthews](https://github.com/bvanitsthian)
+
 ## League of Legends Match Prediction
 
 League of Legends (LoL) is the most widely played multiplayer online battle arena (MOBA) game in the world. Developed by Riot Games and released in 2009, LoL pits two teams of five players against each other. They battle in player-versus-player combat, each team occupying and defending their half of the map.
